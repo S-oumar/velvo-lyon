@@ -1,6 +1,4 @@
 import requests
-import json 
-
 
 URL = "https://download.data.grandlyon.com/files/rdata/jcd_jcdecaux.jcdvelov/station_status.json"
 
